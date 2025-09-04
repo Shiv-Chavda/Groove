@@ -292,7 +292,6 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 **Shiv Chavda**
 - Email: shivchavda11@gmail.com
-- GitHub: [DEBJYOTIRUMAN](https://github.com/DEBJYOTIRUMAN)
 
 ## 🙏 Acknowledgments
 
