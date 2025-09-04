@@ -1,0 +1,2 @@
+C:/Flutter_Projects/Galaxtune-Flutter-FullStack-Project/App/android/app/.cxx/Debug/313m5a5c/x86_64/CMakeFiles/edit_cache.dir
+C:/Flutter_Projects/Galaxtune-Flutter-FullStack-Project/App/android/app/.cxx/Debug/313m5a5c/x86_64/CMakeFiles/rebuild_cache.dir
